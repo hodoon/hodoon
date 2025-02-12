@@ -1,18 +1,14 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=HoDoon&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=desc%20is%20also%20animated&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=HODOON's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36" />
 </div>
 
 <!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h3 align="center">✨ Status ✨</h3>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>&nbsp
-    <img src="https://github-readme-stats.vercel.app/api?username=hodoon&show_icons=true&theme=radical" />&nbsp
-</div>
-<br>
-<h3 align="center">📚 Status 📚</h3>
-<div align="center">
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=hodoon&show_icons=true&theme=radical" />&nbsp
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>&nbsp
+    
 </div>
 
 <br>
