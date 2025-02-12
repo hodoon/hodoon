@@ -7,11 +7,12 @@
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>&nbsp
+    <img src="https://github-readme-stats.vercel.app/api?username=hodoon&show_icons=true&theme=radical" />&nbsp
 </div>
 <br>
 <h3 align="center">📚 Status 📚</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hodoon&show_icons=true&theme=radical" />&nbsp
+  
 </div>
 
 <br>
