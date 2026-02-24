@@ -1,6 +1,6 @@
 <!--Header-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&text=HODOON&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=60&descSize=22&descColor=cccccc" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&text=Dohoon&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=60&descSize=22&descColor=cccccc" />
 </div>
 
 <br/>
@@ -43,12 +43,49 @@
 
 ---
 
-<!--Stats-->
-<h3 align="center">📊 GitHub Stats</h3>
+<!--Activities-->
+<h3 align="center">🚀 Activities</h3>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hodoon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" />&nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hodoon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa" />
+
+| 기간 | 활동 |
+|:---:|:---|
+| 2024.03 ~ 2025.12 | 동양미래대학교 컴퓨터공학부 전공동아리 **다솜** 회장 |
+| 2025.09 ~ 2026.02 | IT 연합 동아리 **University MakeUs Challenge 9th** Backend |
+
+</div>
+
+<br/>
+
+---
+
+<!--Award-->
+<h3 align="center">🏆 Award</h3>
+
+<div align="center">
+
+| 날짜 | 수상 내역 |
+|:---:|:---|
+| 2025.02 | 동양미래대학교 생성형 AI를 활용한 문제해결 해커톤 경진대회 **장려상** |
+| 2025.12 | 스마트 SW 개발 경진대회 **장려상** |
+| 2025.12 | 동양미래대학교 생성형 AI 경진대회 **대상** 🥇 |
+| 2026.02 | UMC 데모데이 경진대회 **우수상** |
+
+</div>
+
+<br/>
+
+---
+
+<!--Patent-->
+<h3 align="center">📜 Patent</h3>
+
+<div align="center">
+
+| 출원일 | 출원번호 | 특허명 | 상태 |
+|:---:|:---:|:---|:---:|
+| 2026.02.13 | 10-2026-0029502 | 인공지능 기반 시선 추적 게임형 학습 시스템을 활용한 사시 교정 훈련 시스템 및 방법 | 등록 |
+
 </div>
 
 <br/>
@@ -61,6 +98,12 @@
 <div align="center">
   <a href="mailto:ehgns79513@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/dohoon-yoon-ab223335a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://www.instagram.com/c.hoon_3481">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
 
